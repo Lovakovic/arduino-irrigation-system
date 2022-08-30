@@ -13,6 +13,7 @@ Parts needed for this project include:
 - **IRFZ44N transistor** 
 - **Single pin male to female wire**
 - **Single pin male to male wire**
+- **Water hose that fits the water pump you chose**
 
 Nice to haves:
 - **22 awg wire** - if you'd like to extend the wire connecting the moisture
