@@ -1,6 +1,4 @@
-# Beta branch!
-## Beta branch contains code that hasn't been tested over extended periods of time and is prone to bugs, use at your own risk!
-## If you'd like to use code that has been tried and tested over a lengthy period of time, refer to the stable branch of this repository.
+# Stable branch
 
 This is an Arduino irrigation project used to irrigate a single large 
 potted plant.
