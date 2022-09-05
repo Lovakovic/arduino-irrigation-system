@@ -1,8 +1,6 @@
 # Stable branch of a sensorless version
 
-## This is a sensorless version of the project. If your sensor doesn't behave
-## as expected or you may preffer to keep the project simpler, you may want 
-## to use this version of the code.
+## This is a sensorless version of the project. If your sensor doesn't behave as expected or you may preffer to keep the project simpler, you may want to use this version of the code.
 
 This is an Arduino irrigation project used to irrigate a single large 
 potted plant.
