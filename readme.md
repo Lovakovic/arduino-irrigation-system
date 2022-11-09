@@ -2,6 +2,15 @@
 ## Code in this branch hasn't been tested thoroughly, use at your own risk!
 ## Check out the stable version on stable branch.
 
+<h4>I'm currently planning on improving the current setup as I've noticed a 
+few flaws, the improvements I'm planning on doing are as listed below</h4>
+
+<ul>
+<em>Improvements due:</em>
+  <li>Switch to a 5V power supply for efficiency and longevity of the board</li>
+  <li>Find a better quality and more reliable soil moisture sensor</li>
+</ul>
+
 This is an Arduino irrigation project used to irrigate a single large 
 potted plant.
 
